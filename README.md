@@ -3,8 +3,14 @@
 
 This was a Kaggle challenge. In this contest, the aim is to predict the fare of a taxi ride given the starting time, the starting and ending latitude / longitude, and the number of passengers. This is a supervised regression machine learning task.
 
-![image](https://user-images.githubusercontent.com/82521644/152027947-95301c25-3383-4488-9167-de74c8eef5bc.png)
 ![image](https://user-images.githubusercontent.com/82521644/152027948-a981c46d-e05a-4cbb-b381-c488db6e9c43.png)
+
+
+![image](https://user-images.githubusercontent.com/82521644/152028644-ab6d231d-293a-44b7-aec4-522af3830286.png)
+![image](https://user-images.githubusercontent.com/82521644/152028668-08b0cfdc-0e74-485b-9f62-3257e9b281c5.png)
+
+![image](https://user-images.githubusercontent.com/82521644/152028747-7c3ebca9-d7a7-4cac-ba36-c1ec8e19c52b.png)
+
 
 Manhattan and Euclidean Distance
 
