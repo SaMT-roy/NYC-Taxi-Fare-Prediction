@@ -11,7 +11,10 @@ This was a Kaggle challenge. In this contest, the aim is to predict the fare of 
 ![image](https://user-images.githubusercontent.com/82521644/152028747-7c3ebca9-d7a7-4cac-ba36-c1ec8e19c52b.png)
 
 
-Manhattan and Euclidean Distance
+The above graphs helped to remove outliers.
+
+
+Manhattan and Euclidean Distance 
 
 The Minkowski Distance between two points is expressed as: ![image](https://user-images.githubusercontent.com/82521644/152028986-630a5551-8b9a-45f8-8d34-c0bbc40c9078.png)
 
