@@ -29,5 +29,6 @@ I  used the Random Forest regressor. This is a powerful ensemble of regression t
 It performed well when  compared  to linear regression model and simple general mean model.
 
 Random Forest Regressor :   Training:    rmse = 1.64 	   mape = 15.06
+                            
                             Validation:  rmse = 1.8 	   mape = 15.82
                                      
