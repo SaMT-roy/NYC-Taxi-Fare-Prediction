@@ -27,3 +27,7 @@ if p = 1, then this is the Manhattan distance and if p = 2 this is the Euclidean
 I  used the Random Forest regressor. This is a powerful ensemble of regression trees that has good performance and generalization ability because of its low variance.
 
 It performed well when  compared  to linear regression model and simple general mean model.
+
+Random Forest Regressor :   Training:    rmse = 1.64 	   mape = 15.06
+                            Validation:  rmse = 1.8 	   mape = 15.82
+                                     
